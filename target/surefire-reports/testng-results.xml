@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-06T20:16:57 IST" name="DockerLoginTest" finished-at="2024-03-06T20:17:39 IST" duration-ms="42021">
+  <suite started-at="2024-03-23T14:35:55 IST" name="DockerLoginTest" finished-at="2024-03-23T14:36:37 IST" duration-ms="42456">
     <groups>
     </groups>
-    <test started-at="2024-03-06T20:16:57 IST" name="ChromeDockerTest" finished-at="2024-03-06T20:17:20 IST" duration-ms="22447">
+    <test started-at="2024-03-23T14:35:55 IST" name="ChromeDockerTest" finished-at="2024-03-23T14:36:25 IST" duration-ms="29727">
       <class name="Tests.LoginPageTests">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-06T20:16:57 IST" name="setUp" finished-at="2024-03-06T20:17:06 IST" duration-ms="8973" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-23T14:35:55 IST" name="setUp" finished-at="2024-03-23T14:36:10 IST" duration-ms="14627" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="invalidCredentials()[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-06T20:17:06 IST" name="invalidCredentials" finished-at="2024-03-06T20:17:09 IST" duration-ms="2044" status="PASS">
+        <test-method signature="invalidCredentials()[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-23T14:36:10 IST" name="invalidCredentials" finished-at="2024-03-23T14:36:12 IST" duration-ms="2605" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidCredentials -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-06T20:17:09 IST" name="closeBrowser" finished-at="2024-03-06T20:17:09 IST" duration-ms="150" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-23T14:36:12 IST" name="closeBrowser" finished-at="2024-03-23T14:36:12 IST" duration-ms="303" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-06T20:17:09 IST" name="setUp" finished-at="2024-03-06T20:17:12 IST" duration-ms="3623" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-23T14:36:12 IST" name="setUp" finished-at="2024-03-23T14:36:18 IST" duration-ms="5808" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -37,15 +37,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="blankUsername()[pri:1, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-06T20:17:12 IST" name="blankUsername" finished-at="2024-03-06T20:17:13 IST" duration-ms="1042" status="PASS">
+        <test-method signature="blankUsername()[pri:1, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-23T14:36:18 IST" name="blankUsername" finished-at="2024-03-23T14:36:19 IST" duration-ms="658" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- blankUsername -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-06T20:17:13 IST" name="closeBrowser" finished-at="2024-03-06T20:17:14 IST" duration-ms="176" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-23T14:36:19 IST" name="closeBrowser" finished-at="2024-03-23T14:36:19 IST" duration-ms="94" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-06T20:17:14 IST" name="setUp" finished-at="2024-03-06T20:17:17 IST" duration-ms="3661" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-23T14:36:19 IST" name="setUp" finished-at="2024-03-23T14:36:22 IST" duration-ms="3225" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -56,19 +56,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="successfulLogin()[pri:2, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-06T20:17:17 IST" name="successfulLogin" finished-at="2024-03-06T20:17:20 IST" duration-ms="2456" status="PASS">
+        <test-method signature="successfulLogin()[pri:2, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-23T14:36:22 IST" name="successfulLogin" finished-at="2024-03-23T14:36:24 IST" duration-ms="2172" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- successfulLogin -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-06T20:17:20 IST" name="closeBrowser" finished-at="2024-03-06T20:17:20 IST" duration-ms="192" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@548d708a]" started-at="2024-03-23T14:36:24 IST" name="closeBrowser" finished-at="2024-03-23T14:36:25 IST" duration-ms="98" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- Tests.LoginPageTests -->
     </test> <!-- ChromeDockerTest -->
-    <test started-at="2024-03-06T20:16:57 IST" name="firefoxDockerTest" finished-at="2024-03-06T20:17:34 IST" duration-ms="37053">
+    <test started-at="2024-03-23T14:35:55 IST" name="firefoxDockerTest" finished-at="2024-03-23T14:36:30 IST" duration-ms="35111">
       <class name="Tests.LoginPageTests">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-06T20:16:57 IST" name="setUp" finished-at="2024-03-06T20:17:10 IST" duration-ms="12477" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-23T14:35:55 IST" name="setUp" finished-at="2024-03-23T14:36:10 IST" duration-ms="15445" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -79,15 +79,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="invalidCredentials()[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-06T20:17:10 IST" name="invalidCredentials" finished-at="2024-03-06T20:17:13 IST" duration-ms="2714" status="PASS">
+        <test-method signature="invalidCredentials()[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-23T14:36:10 IST" name="invalidCredentials" finished-at="2024-03-23T14:36:13 IST" duration-ms="2248" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidCredentials -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-06T20:17:13 IST" name="closeBrowser" finished-at="2024-03-06T20:17:14 IST" duration-ms="1146" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-23T14:36:13 IST" name="closeBrowser" finished-at="2024-03-23T14:36:15 IST" duration-ms="1888" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-06T20:17:14 IST" name="setUp" finished-at="2024-03-06T20:17:22 IST" duration-ms="7693" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-23T14:36:15 IST" name="setUp" finished-at="2024-03-23T14:36:20 IST" duration-ms="5211" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -98,15 +98,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="blankUsername()[pri:1, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-06T20:17:22 IST" name="blankUsername" finished-at="2024-03-06T20:17:23 IST" duration-ms="1000" status="PASS">
+        <test-method signature="blankUsername()[pri:1, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-23T14:36:20 IST" name="blankUsername" finished-at="2024-03-23T14:36:20 IST" duration-ms="726" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- blankUsername -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-06T20:17:23 IST" name="closeBrowser" finished-at="2024-03-06T20:17:24 IST" duration-ms="1159" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-23T14:36:20 IST" name="closeBrowser" finished-at="2024-03-23T14:36:21 IST" duration-ms="693" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-06T20:17:24 IST" name="setUp" finished-at="2024-03-06T20:17:30 IST" duration-ms="6304" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-23T14:36:21 IST" name="setUp" finished-at="2024-03-23T14:36:27 IST" duration-ms="5883" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -117,19 +117,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="successfulLogin()[pri:2, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-06T20:17:30 IST" name="successfulLogin" finished-at="2024-03-06T20:17:33 IST" duration-ms="3415" status="PASS">
+        <test-method signature="successfulLogin()[pri:2, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-23T14:36:27 IST" name="successfulLogin" finished-at="2024-03-23T14:36:29 IST" duration-ms="2093" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- successfulLogin -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-06T20:17:33 IST" name="closeBrowser" finished-at="2024-03-06T20:17:34 IST" duration-ms="1020" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@4007f65e]" started-at="2024-03-23T14:36:29 IST" name="closeBrowser" finished-at="2024-03-23T14:36:30 IST" duration-ms="785" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
       </class> <!-- Tests.LoginPageTests -->
     </test> <!-- firefoxDockerTest -->
-    <test started-at="2024-03-06T20:16:57 IST" name="EdgeDockerTest" finished-at="2024-03-06T20:17:39 IST" duration-ms="42021">
+    <test started-at="2024-03-23T14:35:55 IST" name="EdgeDockerTest" finished-at="2024-03-23T14:36:37 IST" duration-ms="42456">
       <class name="Tests.LoginPageTests">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-06T20:16:57 IST" name="setUp" finished-at="2024-03-06T20:17:17 IST" duration-ms="19683" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-23T14:35:55 IST" name="setUp" finished-at="2024-03-23T14:36:09 IST" duration-ms="14435" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -140,15 +140,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="invalidCredentials()[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-06T20:17:17 IST" name="invalidCredentials" finished-at="2024-03-06T20:17:20 IST" duration-ms="2776" status="PASS">
+        <test-method signature="invalidCredentials()[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-23T14:36:09 IST" name="invalidCredentials" finished-at="2024-03-23T14:36:12 IST" duration-ms="2183" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invalidCredentials -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-06T20:17:20 IST" name="closeBrowser" finished-at="2024-03-06T20:17:20 IST" duration-ms="165" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-23T14:36:12 IST" name="closeBrowser" finished-at="2024-03-23T14:36:12 IST" duration-ms="194" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-06T20:17:20 IST" name="setUp" finished-at="2024-03-06T20:17:31 IST" duration-ms="11236" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-23T14:36:12 IST" name="setUp" finished-at="2024-03-23T14:36:16 IST" duration-ms="4760" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -159,15 +159,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="blankUsername()[pri:1, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-06T20:17:31 IST" name="blankUsername" finished-at="2024-03-06T20:17:32 IST" duration-ms="1127" status="PASS">
+        <test-method signature="blankUsername()[pri:1, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-23T14:36:16 IST" name="blankUsername" finished-at="2024-03-23T14:36:17 IST" duration-ms="849" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- blankUsername -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-06T20:17:32 IST" name="closeBrowser" finished-at="2024-03-06T20:17:33 IST" duration-ms="215" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-23T14:36:17 IST" name="closeBrowser" finished-at="2024-03-23T14:36:18 IST" duration-ms="186" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-06T20:17:33 IST" name="setUp" finished-at="2024-03-06T20:17:37 IST" duration-ms="3924" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-23T14:36:18 IST" name="setUp" finished-at="2024-03-23T14:36:34 IST" duration-ms="16664" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -178,11 +178,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="successfulLogin()[pri:2, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-06T20:17:37 IST" name="successfulLogin" finished-at="2024-03-06T20:17:39 IST" duration-ms="2613" status="PASS">
+        <test-method signature="successfulLogin()[pri:2, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-23T14:36:34 IST" name="successfulLogin" finished-at="2024-03-23T14:36:37 IST" duration-ms="2905" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- successfulLogin -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-06T20:17:39 IST" name="closeBrowser" finished-at="2024-03-06T20:17:39 IST" duration-ms="157" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageTests@673fdbce]" started-at="2024-03-23T14:36:37 IST" name="closeBrowser" finished-at="2024-03-23T14:36:37 IST" duration-ms="138" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
